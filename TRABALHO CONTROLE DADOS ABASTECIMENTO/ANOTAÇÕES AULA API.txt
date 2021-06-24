@@ -1,0 +1,19 @@
+@RestController
+public class SafrasResource{
+
+
+@GetMapping("/safras")
+public void listarSafra(){
+
+
+}
+
+
+}
+
+
+FERRAMENTA DE VERSIONAMENTO
+
+
+
+git github subversion
